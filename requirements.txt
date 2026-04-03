@@ -1,0 +1,9 @@
+openai-whisper
+google-genai
+gtts
+sounddevice
+numpy
+scipy
+pypdf
+sentence-transformers
+faiss-cpu
