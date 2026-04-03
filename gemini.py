@@ -1,6 +1,6 @@
 from google import genai
 
-client = genai.Client(api_key="AIzaSyBfpCvz_CcuU2Tocaq7yAi0V8sd2p-lNMM")
+client = genai.Client(api_key="API_key")
 
 def ask_gemini(user_text):
     prompt = f"""
